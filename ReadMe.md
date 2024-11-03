@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello! I'm Abdenigara<br>🎓 Student | Tech Enthusiast | Aspiring Developer<br>🌱 Currently learning: Full-Stack Web Development & Mobile App Dev<br>💡 Interests: JavaScript, PHP, Html, and AI<br>📫 How to reach me: abdenigara@gmail<br>🚀 Fun Fact: I enjoy solving problems with code!
+👋 Hello! I'm Abdenigara<br>🎓 Student | Tech Enthusiast <br>🌱 Currently learning: Full-Stack Web Development & Mobile App Dev<br>💡 Interests: JavaScript, PHP, Html, and AI<br>📫 How to reach me: abdenigara@gmail<br>🚀 Fun Fact: saya ingin jadi proggramer handal namun enggan mengoding!
 
 
 ## 🌐 Socials:
